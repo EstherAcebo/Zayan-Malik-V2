@@ -79,7 +79,7 @@ async def start(bot, cmd):
                     f_caption = f"{files.file_name}"
                 buttons = [[
 
-                       InlineKeyboardButton("🍿 𝙅𝙊𝙄𝙉 𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 🍿", url="https://t.me/primer_roomm"),
+                       InlineKeyboardButton("🍿 𝙅𝙊𝙄𝙉 𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 🍿", url="https://t.me/MJ_Film_House"),
                     ]]
                 await bot.send_cached_media(
                     chat_id=cmd.from_user.id,
@@ -113,12 +113,12 @@ async def start(bot, cmd):
                     ],
                     [
                         InlineKeyboardButton("sᴇᴀʀᴄʜ ʜᴇʀᴇ", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("ᴀɴʏ ʜᴇʟᴘ", url="telegram.me/STMbOTsUPPORTgROUP")
+                        InlineKeyboardButton("ᴀɴʏ ʜᴇʟᴘ", url="https://t.me/Mubi369")
                     ],
                     [
                         InlineKeyboardButton("ᴍʏ ᴅᴇᴠ", url="https://t.me/xxxtentacionn12"),
-                        InlineKeyboardButton("ʙᴏᴛ ᴇᴅɪᴛᴏʀ", url="https://t.me/VAMPIRE_KING_NO_1")
-                    ],
+                        InlineKeyboardButton("ʙᴏᴛ ᴇᴅɪᴛᴏʀ", url="https://t.me/Mubi369")
+                    ],.me/VAMPIRE_KING_NO_1
                     [
                         InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
                     ]    
